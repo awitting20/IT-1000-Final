@@ -1,7 +1,7 @@
 # Aaron Witting's Github; Welcome!
 
 ## Information about me:
-My name is Aaron Witting and I am from [*Boonville, Missouri*](https://user-images.githubusercontent.com/82839703/116466622-5901fb80-a834-11eb-86bd-f229845be023.png). I grew up twenty minutes away from Columbia and the University of Missouri's campus. I consider myself a "local" even though I am not originally from Columbia. I have lived my whole life in Boonville. All the schools I attended in my nineteen years of living have been in Boonville, other than college of course. My life has been fairly quiet and I am very excited to be here at Mizzou beginning my career!
+My name is Aaron Witting and I am from [*Boonville, Missouri*](https://user-images.githubusercontent.com/82839703/116466622-5901fb80-a834-11eb-86bd-f229845be023.png). I grew up twenty minutes away from Columbia and the University of Missouri's campus. I consider myself a "local" even though I am not originally from Columbia. I have lived my whole life in Boonville. All the schools I attended in my nineteen years of living have been in Boonville, other than college of course. I am excited to get out of my comfort zone a bit by coming to a large university such as Mizzou. I have taken other steps to expand my horizons other than going to a large school. I have also joined a fraternity since being here. I am a member of the [Alpha Gamma Sigma](http://agsig.org/) fraternity. My life has been fairly quiet and I am very excited to be here at Mizzou beginning my career! 
 
 ![Mizzou Tiger](https://user-images.githubusercontent.com/82839703/116465990-931ecd80-a833-11eb-87ac-9ab482ddac41.png)
 
