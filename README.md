@@ -14,5 +14,30 @@ My name is Aaron Witting and I am from [*Boonville, Missouri*](https://user-imag
 4. University (current)
 
 ### Some of my previous work:
-My [IT 1600 Final](https://github.com/awitting20/IT-1600-Final.git) 
+My [IT 1600 Final](https://github.com/awitting20/IT-1600-Final.git)
+
+while True:
+    try:
+        radius = float(input("What is the radius?" ))
+        break
+    except ValueError:
+        print("The input is invalid. Re-enter value.")
+
+
+while True:
+    try:
+        height = float(input("What is the height?" ))
+        break
+    except ValueError:
+        print("The input is invalid. Re-enter value.")
+
+volume = 3.14 * (radius * radius) * height
+
+print("The volume is", volume)
+
+**This is a code for solving the volume of a cylinder. Just a taste of programming challenges I have completed** 
+
+### Future Goals:
+The future is not set for me. I am not exactly sure what I want to do or where I want to be, but it does not bother me as much as it probably should. I'm more about living in the moment and letting life lead me where it wants me to go. That said, I do want to get a degree in Information Technology, find a career, have a family, and travel the country and world at some point. They are generic goals, but they drive me to do my best.  
+
 
