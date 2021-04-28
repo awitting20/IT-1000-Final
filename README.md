@@ -20,9 +20,9 @@ while True:
     try:
         radius = float(input("What is the radius?" ))
         break
+    
     except ValueError:
         print("The input is invalid. Re-enter value.")
-
 
 while True:
     try:
