@@ -20,15 +20,20 @@ while True:
     try:
         radius = float(input("What is the radius?" ))
         break
-    except ValueError:
+  
+  except ValueError:
         print("The input is invalid. Re-enter value.")
+
 while True:
     try:
         height = float(input("What is the height?" ))
         break
-    except ValueError:
+   
+   except ValueError:
         print("The input is invalid. Re-enter value.")
+
 volume = 3.14 * (radius * radius) * height
+
 print("The volume is", volume)
 
 **This is a code for solving the volume of a cylinder. Just a taste of programming challenges I have completed** 
